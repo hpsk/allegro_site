@@ -1,3 +1,3 @@
-configure Æú´õ
+configure í´ë”
 ======================
-PCB Editor ¼³Á¤ ÆÄÀÏ
+PCB Editor ì„¤ì • íŒŒì¼
