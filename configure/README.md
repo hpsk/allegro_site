@@ -1,4 +1,3 @@
 configure 폴더
 ======================
-PCB Editor 환경 설정 파일
-
+PCB Editor의 환경설정 파일 경로
