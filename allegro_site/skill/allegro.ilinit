@@ -1,0 +1,9 @@
+dir=strcat( getShellEnvVar("ALLEGRO_SITE") "\\skill")
+when(isDir(dir)
+	foreach(file rexMatchList("\\.il$" getDirFiles(dir))
+		when(
+			 printf("Loading Skill file: %s\n" file)
+			(load strcat(file))
+			);when
+	);foreach
+);when

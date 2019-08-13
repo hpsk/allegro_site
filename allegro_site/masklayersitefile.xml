@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SiteFile>
+<SiteFile version="1.0">
+    <LayerSiteData Type="Mask" Function="DIELECTRIC_ADHESIVE" Class="RIGID_FLEX" Name="ADHESIVE_TOP" Color="ff00ff00" DefMaterial="ADHESIVE_EPOXY"/>
+    <LayerSiteData Type="Mask" Function="DIELECTRIC_ADHESIVE" Class="RIGID_FLEX" Name="ADHESIVE_PSA_TOP" Color="ffaaff7f" DefMaterial="ADHESIVE_EPOXY"/>
+    <LayerSiteData Type="Mask" Function="DIELECTRIC_ADHESIVE" Class="RIGID_FLEX" Name="ADHESIVE_THERMOSET_TOP" Color="ffaaaa00" DefMaterial="ADHESIVE_EPOXY"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="ENIG_TOP" Color="ffff5500" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="ENIG_BOTTOM" Color="ff0055ff" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="ENEPIG_TOP" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="ENEPIG_BOTTOM" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="IMMERSION_TIN_TOP" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="IMMERSION_TIN_BOTTOM" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="IMMERSION_SILVER_TOP" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="IMMERSION_SILVER_BOTTOM" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="OSP_TOP" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="OSP_BOTTOM" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="HARD_GOLD_TOP" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="HARD_GOLD_BOTTOM" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="SOFT_GOLD_TOP" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="SOFT_GOLD_BOTTOM" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="SOFT_BONDABLE_GOLD_TOP" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="SOFT_BONDABLE_GOLD_BOTTOM" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="TIN_PLATE_TOP" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="COATING_CONDUCTIVE" Class="RIGID_FLEX" Name="TIN_PLATE_BOTTOM" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="DIELECTRIC_BASE" Class="RIGID_FLEX" Name="AIRGAP_1" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="DIELECTRIC_COVERLAY" Class="RIGID_FLEX" Name="COVERLAY_INTERNAL_1" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="DIELECTRIC_COVERLAY" Class="RIGID_FLEX" Name="COVERLAY_INTERNAL_2" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="DIELECTRIC_COVERLAY" Class="RIGID_FLEX" Name="COVERLAY_INTERNAL_3" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="DIELECTRIC_COVERLAY" Class="RIGID_FLEX" Name="COVERLAY_INTERNAL_4" Color="0" DefMaterial="material_not_defined"/>
+    <LayerSiteData Type="Mask" Function="DIELECTRIC_ADHESIVE" Class="RIGID_FLEX" Name="ADHESIVE_BOTTOM" Color="0" DefMaterial="ADHESIVE_EPOXY"/>
+    <LayerSiteData Type="Mask" Function="DIELECTRIC_ADHESIVE" Class="RIGID_FLEX" Name="ADHESIVE_PSA_BOTTOM" Color="0" DefMaterial="ADHESIVE_EPOXY"/>
+    <LayerSiteData Type="Mask" Function="DIELECTRIC_ADHESIVE" Class="RIGID_FLEX" Name="ADHESIVE_THERMOSET_BOTTOM" Color="0" DefMaterial="ADHESIVE_EPOXY"/>
+</SiteFile>
