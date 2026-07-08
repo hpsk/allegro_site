@@ -1,11 +1,15 @@
 ; 레퍼런스 정리
 ;
 ;      Author :  행복찾기
-;        Home :  orcad.pe.kr
+;        Home :  blog.naver.com/kingreddrake
 ;test Product :  OrCAD / Allegro
 ;        Date :  Feb 28, 2021
-;        Version : v0.1
+;      ersion : v0.1
 ;     Command :  auto_refdes
+
+;       사용방법 : il 파일안에 블록 크기와 정렬을 선택
+;      블록 설정 : HPSK_tText_Blk이며 기본값은 "3"
+;      글자 정렬 : HPSK_tText_Jus이며 "LEFT", "CENTER", "RIGHT" 중 입력
 
 axlCmdRegister("auto_refdes" 'HPSK_AUTO_REF)
 
